@@ -1,0 +1,4666 @@
+[
+  {
+    "KY_ID": 1003703,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3]",
+    "TX_SKU": "S3",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003704,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3048]",
+    "TX_SKU": "S3048",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003705,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3075]",
+    "TX_SKU": "S3075",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003706,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3129]",
+    "TX_SKU": "S3129",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003707,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S313]",
+    "TX_SKU": "S313",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003708,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3304]",
+    "TX_SKU": "S3304",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003709,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3331]",
+    "TX_SKU": "S3331",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003710,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3385]",
+    "TX_SKU": "S3385",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003711,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3560]",
+    "TX_SKU": "S3560",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003712,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3587]",
+    "TX_SKU": "S3587",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003713,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3641]",
+    "TX_SKU": "S3641",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003714,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3816]",
+    "TX_SKU": "S3816",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003715,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3843]",
+    "TX_SKU": "S3843",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003716,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S3897]",
+    "TX_SKU": "S3897",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003717,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4072]",
+    "TX_SKU": "S4072",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003718,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4099]",
+    "TX_SKU": "S4099",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003719,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4153]",
+    "TX_SKU": "S4153",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003720,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4328]",
+    "TX_SKU": "S4328",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003721,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4355]",
+    "TX_SKU": "S4355",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003722,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4409]",
+    "TX_SKU": "S4409",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003723,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4584]",
+    "TX_SKU": "S4584",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003724,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4611]",
+    "TX_SKU": "S4611",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003725,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4665]",
+    "TX_SKU": "S4665",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003726,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4840]",
+    "TX_SKU": "S4840",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003727,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4867]",
+    "TX_SKU": "S4867",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003728,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S488]",
+    "TX_SKU": "S488",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003729,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S4921]",
+    "TX_SKU": "S4921",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003730,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S515]",
+    "TX_SKU": "S515",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003731,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S569]",
+    "TX_SKU": "S569",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003732,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S57]",
+    "TX_SKU": "S57",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003733,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S744]",
+    "TX_SKU": "S744",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003734,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S771]",
+    "TX_SKU": "S771",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003735,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S825]",
+    "TX_SKU": "S825",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1006258,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1007]",
+    "TX_SKU": "S1007",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006259,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1110]",
+    "TX_SKU": "S1110",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006260,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1144]",
+    "TX_SKU": "S1144",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006261,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S120]",
+    "TX_SKU": "S120",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006262,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1241]",
+    "TX_SKU": "S1241",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006263,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1263]",
+    "TX_SKU": "S1263",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006276,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2134]",
+    "TX_SKU": "S2134",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006277,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2168]",
+    "TX_SKU": "S2168",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006278,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S217]",
+    "TX_SKU": "S217",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006279,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2265]",
+    "TX_SKU": "S2265",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006280,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2287]",
+    "TX_SKU": "S2287",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006281,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S239]",
+    "TX_SKU": "S239",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006282,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2390]",
+    "TX_SKU": "S2390",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006283,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2424]",
+    "TX_SKU": "S2424",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006284,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2521]",
+    "TX_SKU": "S2521",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006285,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2543]",
+    "TX_SKU": "S2543",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006286,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2646]",
+    "TX_SKU": "S2646",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006287,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2680]",
+    "TX_SKU": "S2680",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006300,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3448]",
+    "TX_SKU": "S3448",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006301,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3545]",
+    "TX_SKU": "S3545",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006302,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3567]",
+    "TX_SKU": "S3567",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006303,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3670]",
+    "TX_SKU": "S3670",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006304,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3704]",
+    "TX_SKU": "S3704",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006305,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S376]",
+    "TX_SKU": "S376",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006306,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3801]",
+    "TX_SKU": "S3801",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006307,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3823]",
+    "TX_SKU": "S3823",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006308,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3926]",
+    "TX_SKU": "S3926",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006309,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3960]",
+    "TX_SKU": "S3960",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006310,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4057]",
+    "TX_SKU": "S4057",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006311,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4079]",
+    "TX_SKU": "S4079",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006324,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4847]",
+    "TX_SKU": "S4847",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006325,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S495]",
+    "TX_SKU": "S495",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006326,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4950]",
+    "TX_SKU": "S4950",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006327,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4984]",
+    "TX_SKU": "S4984",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006328,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S598]",
+    "TX_SKU": "S598",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006329,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S632]",
+    "TX_SKU": "S632",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006330,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S729]",
+    "TX_SKU": "S729",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006331,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S751]",
+    "TX_SKU": "S751",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006332,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S854]",
+    "TX_SKU": "S854",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006333,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S86]",
+    "TX_SKU": "S86",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006334,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S888]",
+    "TX_SKU": "S888",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006335,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S985]",
+    "TX_SKU": "S985",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1007574,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1096]",
+    "TX_SKU": "S1096",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007575,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1113]",
+    "TX_SKU": "S1113",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007576,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1223]",
+    "TX_SKU": "S1223",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007577,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1235]",
+    "TX_SKU": "S1235",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007578,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1249]",
+    "TX_SKU": "S1249",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007579,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1264]",
+    "TX_SKU": "S1264",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007580,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1271]",
+    "TX_SKU": "S1271",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007581,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1275]",
+    "TX_SKU": "S1275",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007582,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1294]",
+    "TX_SKU": "S1294",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007583,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1298]",
+    "TX_SKU": "S1298",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007584,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1305]",
+    "TX_SKU": "S1305",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007585,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1307]",
+    "TX_SKU": "S1307",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007598,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1527]",
+    "TX_SKU": "S1527",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007599,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1531]",
+    "TX_SKU": "S1531",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007600,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1550]",
+    "TX_SKU": "S1550",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007601,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1554]",
+    "TX_SKU": "S1554",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007602,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1561]",
+    "TX_SKU": "S1561",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007603,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1563]",
+    "TX_SKU": "S1563",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007604,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1573]",
+    "TX_SKU": "S1573",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007605,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1580]",
+    "TX_SKU": "S1580",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007606,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1591]",
+    "TX_SKU": "S1591",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007607,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1596]",
+    "TX_SKU": "S1596",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007608,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1604]",
+    "TX_SKU": "S1604",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007609,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1608]",
+    "TX_SKU": "S1608",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007622,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1829]",
+    "TX_SKU": "S1829",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007623,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1836]",
+    "TX_SKU": "S1836",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007624,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1847]",
+    "TX_SKU": "S1847",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007625,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1852]",
+    "TX_SKU": "S1852",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007626,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1860]",
+    "TX_SKU": "S1860",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007627,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1864]",
+    "TX_SKU": "S1864",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007628,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1881]",
+    "TX_SKU": "S1881",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007629,
+    "TX_DESCRIPTION": "[US] [Walmart] [S199]",
+    "TX_SKU": "S199",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007630,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1991]",
+    "TX_SKU": "S1991",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007631,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2003]",
+    "TX_SKU": "S2003",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007632,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2017]",
+    "TX_SKU": "S2017",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007633,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2032]",
+    "TX_SKU": "S2032",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007646,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2120]",
+    "TX_SKU": "S2120",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007647,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2137]",
+    "TX_SKU": "S2137",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007648,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2247]",
+    "TX_SKU": "S2247",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007649,
+    "TX_DESCRIPTION": "[US] [Walmart] [S225]",
+    "TX_SKU": "S225",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007650,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2259]",
+    "TX_SKU": "S2259",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007651,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2273]",
+    "TX_SKU": "S2273",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007652,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2288]",
+    "TX_SKU": "S2288",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007653,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2295]",
+    "TX_SKU": "S2295",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007654,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2299]",
+    "TX_SKU": "S2299",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007655,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2318]",
+    "TX_SKU": "S2318",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007656,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2322]",
+    "TX_SKU": "S2322",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007657,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2329]",
+    "TX_SKU": "S2329",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007670,
+    "TX_DESCRIPTION": "[US] [Walmart] [S251]",
+    "TX_SKU": "S251",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007671,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2515]",
+    "TX_SKU": "S2515",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007672,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2529]",
+    "TX_SKU": "S2529",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007673,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2544]",
+    "TX_SKU": "S2544",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007674,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2551]",
+    "TX_SKU": "S2551",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007675,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2555]",
+    "TX_SKU": "S2555",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007676,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2574]",
+    "TX_SKU": "S2574",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007677,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2578]",
+    "TX_SKU": "S2578",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007678,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2585]",
+    "TX_SKU": "S2585",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007679,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2587]",
+    "TX_SKU": "S2587",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007680,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2597]",
+    "TX_SKU": "S2597",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007681,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2604]",
+    "TX_SKU": "S2604",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007694,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2807]",
+    "TX_SKU": "S2807",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007695,
+    "TX_DESCRIPTION": "[US] [Walmart] [S281]",
+    "TX_SKU": "S281",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007696,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2811]",
+    "TX_SKU": "S2811",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007697,
+    "TX_DESCRIPTION": "[US] [Walmart] [S283]",
+    "TX_SKU": "S283",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007698,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2830]",
+    "TX_SKU": "S2830",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007699,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2834]",
+    "TX_SKU": "S2834",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007700,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2841]",
+    "TX_SKU": "S2841",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007701,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2843]",
+    "TX_SKU": "S2843",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007702,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2853]",
+    "TX_SKU": "S2853",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007703,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2860]",
+    "TX_SKU": "S2860",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007704,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2871]",
+    "TX_SKU": "S2871",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007705,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2876]",
+    "TX_SKU": "S2876",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007718,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3090]",
+    "TX_SKU": "S3090",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007719,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3097]",
+    "TX_SKU": "S3097",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007720,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3099]",
+    "TX_SKU": "S3099",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007721,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3109]",
+    "TX_SKU": "S3109",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007722,
+    "TX_DESCRIPTION": "[US] [Walmart] [S311]",
+    "TX_SKU": "S311",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007723,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3116]",
+    "TX_SKU": "S3116",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007724,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3127]",
+    "TX_SKU": "S3127",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007725,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3132]",
+    "TX_SKU": "S3132",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007726,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3140]",
+    "TX_SKU": "S3140",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007727,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3144]",
+    "TX_SKU": "S3144",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007728,
+    "TX_DESCRIPTION": "[US] [Walmart] [S316]",
+    "TX_SKU": "S316",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007729,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3161]",
+    "TX_SKU": "S3161",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007742,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3365]",
+    "TX_SKU": "S3365",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007743,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3372]",
+    "TX_SKU": "S3372",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007744,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3383]",
+    "TX_SKU": "S3383",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007745,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3388]",
+    "TX_SKU": "S3388",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007746,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3396]",
+    "TX_SKU": "S3396",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007747,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3400]",
+    "TX_SKU": "S3400",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007748,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3417]",
+    "TX_SKU": "S3417",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007749,
+    "TX_DESCRIPTION": "[US] [Walmart] [S345]",
+    "TX_SKU": "S345",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007750,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3527]",
+    "TX_SKU": "S3527",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007751,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3539]",
+    "TX_SKU": "S3539",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007752,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3553]",
+    "TX_SKU": "S3553",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007753,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3568]",
+    "TX_SKU": "S3568",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007766,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3673]",
+    "TX_SKU": "S3673",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007767,
+    "TX_DESCRIPTION": "[US] [Walmart] [S37]",
+    "TX_SKU": "S37",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007768,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3783]",
+    "TX_SKU": "S3783",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007769,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3795]",
+    "TX_SKU": "S3795",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007770,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3809]",
+    "TX_SKU": "S3809",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007771,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3824]",
+    "TX_SKU": "S3824",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007772,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3831]",
+    "TX_SKU": "S3831",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007773,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3835]",
+    "TX_SKU": "S3835",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007774,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3854]",
+    "TX_SKU": "S3854",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007775,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3858]",
+    "TX_SKU": "S3858",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007776,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3865]",
+    "TX_SKU": "S3865",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007777,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3867]",
+    "TX_SKU": "S3867",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007790,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4091]",
+    "TX_SKU": "S4091",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007791,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4110]",
+    "TX_SKU": "S4110",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007792,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4114]",
+    "TX_SKU": "S4114",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007793,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4121]",
+    "TX_SKU": "S4121",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007794,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4123]",
+    "TX_SKU": "S4123",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007795,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4133]",
+    "TX_SKU": "S4133",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007796,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4140]",
+    "TX_SKU": "S4140",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007797,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4151]",
+    "TX_SKU": "S4151",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007798,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4156]",
+    "TX_SKU": "S4156",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007799,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4164]",
+    "TX_SKU": "S4164",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007800,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4168]",
+    "TX_SKU": "S4168",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007801,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4185]",
+    "TX_SKU": "S4185",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007814,
+    "TX_DESCRIPTION": "[US] [Walmart] [S44]",
+    "TX_SKU": "S44",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007815,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4407]",
+    "TX_SKU": "S4407",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007816,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4412]",
+    "TX_SKU": "S4412",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007817,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4420]",
+    "TX_SKU": "S4420",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007818,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4424]",
+    "TX_SKU": "S4424",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007819,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4441]",
+    "TX_SKU": "S4441",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007820,
+    "TX_DESCRIPTION": "[US] [Walmart] [S455]",
+    "TX_SKU": "S455",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007821,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4551]",
+    "TX_SKU": "S4551",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007822,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4563]",
+    "TX_SKU": "S4563",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007823,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4577]",
+    "TX_SKU": "S4577",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007824,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4592]",
+    "TX_SKU": "S4592",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007825,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4599]",
+    "TX_SKU": "S4599",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007838,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4697]",
+    "TX_SKU": "S4697",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007839,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4807]",
+    "TX_SKU": "S4807",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007840,
+    "TX_DESCRIPTION": "[US] [Walmart] [S481]",
+    "TX_SKU": "S481",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007841,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4819]",
+    "TX_SKU": "S4819",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007842,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4833]",
+    "TX_SKU": "S4833",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007843,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4848]",
+    "TX_SKU": "S4848",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007844,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4855]",
+    "TX_SKU": "S4855",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007845,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4859]",
+    "TX_SKU": "S4859",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007846,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4878]",
+    "TX_SKU": "S4878",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007847,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4882]",
+    "TX_SKU": "S4882",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007848,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4889]",
+    "TX_SKU": "S4889",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007849,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4891]",
+    "TX_SKU": "S4891",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007862,
+    "TX_DESCRIPTION": "[US] [Walmart] [S530]",
+    "TX_SKU": "S530",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007863,
+    "TX_DESCRIPTION": "[US] [Walmart] [S537]",
+    "TX_SKU": "S537",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007864,
+    "TX_DESCRIPTION": "[US] [Walmart] [S539]",
+    "TX_SKU": "S539",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007865,
+    "TX_DESCRIPTION": "[US] [Walmart] [S549]",
+    "TX_SKU": "S549",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007866,
+    "TX_DESCRIPTION": "[US] [Walmart] [S55]",
+    "TX_SKU": "S55",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007867,
+    "TX_DESCRIPTION": "[US] [Walmart] [S556]",
+    "TX_SKU": "S556",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007868,
+    "TX_DESCRIPTION": "[US] [Walmart] [S567]",
+    "TX_SKU": "S567",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007869,
+    "TX_DESCRIPTION": "[US] [Walmart] [S572]",
+    "TX_SKU": "S572",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007870,
+    "TX_DESCRIPTION": "[US] [Walmart] [S580]",
+    "TX_SKU": "S580",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007871,
+    "TX_DESCRIPTION": "[US] [Walmart] [S584]",
+    "TX_SKU": "S584",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007872,
+    "TX_DESCRIPTION": "[US] [Walmart] [S60]",
+    "TX_SKU": "S60",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007873,
+    "TX_DESCRIPTION": "[US] [Walmart] [S601]",
+    "TX_SKU": "S601",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007886,
+    "TX_DESCRIPTION": "[US] [Walmart] [S805]",
+    "TX_SKU": "S805",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007887,
+    "TX_DESCRIPTION": "[US] [Walmart] [S812]",
+    "TX_SKU": "S812",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007888,
+    "TX_DESCRIPTION": "[US] [Walmart] [S823]",
+    "TX_SKU": "S823",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007889,
+    "TX_DESCRIPTION": "[US] [Walmart] [S828]",
+    "TX_SKU": "S828",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007890,
+    "TX_DESCRIPTION": "[US] [Walmart] [S836]",
+    "TX_SKU": "S836",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007891,
+    "TX_DESCRIPTION": "[US] [Walmart] [S840]",
+    "TX_SKU": "S840",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007892,
+    "TX_DESCRIPTION": "[US] [Walmart] [S857]",
+    "TX_SKU": "S857",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007893,
+    "TX_DESCRIPTION": "[US] [Walmart] [S89]",
+    "TX_SKU": "S89",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007894,
+    "TX_DESCRIPTION": "[US] [Walmart] [S967]",
+    "TX_SKU": "S967",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007895,
+    "TX_DESCRIPTION": "[US] [Walmart] [S979]",
+    "TX_SKU": "S979",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007896,
+    "TX_DESCRIPTION": "[US] [Walmart] [S993]",
+    "TX_SKU": "S993",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003500,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1057]",
+    "TX_SKU": "S1057",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003501,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1224]",
+    "TX_SKU": "S1224",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003502,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1313]",
+    "TX_SKU": "S1313",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003503,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1480]",
+    "TX_SKU": "S1480",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003504,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1569]",
+    "TX_SKU": "S1569",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003505,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1736]",
+    "TX_SKU": "S1736",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003506,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1825]",
+    "TX_SKU": "S1825",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003507,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S1992]",
+    "TX_SKU": "S1992",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003508,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S200]",
+    "TX_SKU": "S200",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003509,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2081]",
+    "TX_SKU": "S2081",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003510,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2248]",
+    "TX_SKU": "S2248",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003511,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2337]",
+    "TX_SKU": "S2337",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003512,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2504]",
+    "TX_SKU": "S2504",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003513,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2593]",
+    "TX_SKU": "S2593",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003514,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2760]",
+    "TX_SKU": "S2760",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003515,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S2849]",
+    "TX_SKU": "S2849",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003516,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S289]",
+    "TX_SKU": "S289",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003517,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3016]",
+    "TX_SKU": "S3016",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003518,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3105]",
+    "TX_SKU": "S3105",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003519,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3272]",
+    "TX_SKU": "S3272",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003520,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S33]",
+    "TX_SKU": "S33",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003521,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3361]",
+    "TX_SKU": "S3361",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003522,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3528]",
+    "TX_SKU": "S3528",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003523,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3617]",
+    "TX_SKU": "S3617",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003524,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3784]",
+    "TX_SKU": "S3784",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003525,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S3873]",
+    "TX_SKU": "S3873",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003526,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4040]",
+    "TX_SKU": "S4040",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003527,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4129]",
+    "TX_SKU": "S4129",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003528,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4296]",
+    "TX_SKU": "S4296",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003529,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4385]",
+    "TX_SKU": "S4385",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003530,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4552]",
+    "TX_SKU": "S4552",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003531,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S456]",
+    "TX_SKU": "S456",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003532,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4641]",
+    "TX_SKU": "S4641",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003533,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4808]",
+    "TX_SKU": "S4808",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003534,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S4897]",
+    "TX_SKU": "S4897",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003535,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S5064]",
+    "TX_SKU": "S5064",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003536,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S545]",
+    "TX_SKU": "S545",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003537,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S712]",
+    "TX_SKU": "S712",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003538,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S801]",
+    "TX_SKU": "S801",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003539,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA] [S968]",
+    "TX_SKU": "S968",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003559,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S1242]",
+    "TX_SKU": "S1242",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003560,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S1498]",
+    "TX_SKU": "S1498",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003561,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S1754]",
+    "TX_SKU": "S1754",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003562,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S2010]",
+    "TX_SKU": "S2010",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003563,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S218]",
+    "TX_SKU": "S218",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003564,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S2266]",
+    "TX_SKU": "S2266",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003565,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S2522]",
+    "TX_SKU": "S2522",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003566,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S2778]",
+    "TX_SKU": "S2778",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003567,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S3034]",
+    "TX_SKU": "S3034",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003568,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S3290]",
+    "TX_SKU": "S3290",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003569,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S3546]",
+    "TX_SKU": "S3546",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003570,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S3802]",
+    "TX_SKU": "S3802",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003571,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S4058]",
+    "TX_SKU": "S4058",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003572,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S4314]",
+    "TX_SKU": "S4314",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003573,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S4570]",
+    "TX_SKU": "S4570",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003574,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S474]",
+    "TX_SKU": "S474",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003575,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S4826]",
+    "TX_SKU": "S4826",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003576,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S730]",
+    "TX_SKU": "S730",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003577,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)] [S986]",
+    "TX_SKU": "S986",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)"
+  },
+  {
+    "KY_ID": 1003598,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1001]",
+    "TX_SKU": "S1001",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003599,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1109]",
+    "TX_SKU": "S1109",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003600,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1212]",
+    "TX_SKU": "S1212",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003601,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1257]",
+    "TX_SKU": "S1257",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003602,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1365]",
+    "TX_SKU": "S1365",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003603,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1468]",
+    "TX_SKU": "S1468",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003604,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1513]",
+    "TX_SKU": "S1513",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003605,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1621]",
+    "TX_SKU": "S1621",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003606,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1724]",
+    "TX_SKU": "S1724",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003607,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1769]",
+    "TX_SKU": "S1769",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003608,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1877]",
+    "TX_SKU": "S1877",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003609,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S188]",
+    "TX_SKU": "S188",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003610,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S1980]",
+    "TX_SKU": "S1980",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003611,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2025]",
+    "TX_SKU": "S2025",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003612,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2133]",
+    "TX_SKU": "S2133",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003613,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2236]",
+    "TX_SKU": "S2236",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007754,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3575]",
+    "TX_SKU": "S3575",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007755,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3579]",
+    "TX_SKU": "S3579",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007756,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3598]",
+    "TX_SKU": "S3598",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007757,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3602]",
+    "TX_SKU": "S3602",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007758,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3609]",
+    "TX_SKU": "S3609",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007759,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3611]",
+    "TX_SKU": "S3611",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007760,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3621]",
+    "TX_SKU": "S3621",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007761,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3628]",
+    "TX_SKU": "S3628",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007762,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3639]",
+    "TX_SKU": "S3639",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007763,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3644]",
+    "TX_SKU": "S3644",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007764,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3652]",
+    "TX_SKU": "S3652",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007765,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3656]",
+    "TX_SKU": "S3656",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007778,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3877]",
+    "TX_SKU": "S3877",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007779,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3884]",
+    "TX_SKU": "S3884",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007780,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3895]",
+    "TX_SKU": "S3895",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007781,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3900]",
+    "TX_SKU": "S3900",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007782,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3908]",
+    "TX_SKU": "S3908",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007783,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3912]",
+    "TX_SKU": "S3912",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007784,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3929]",
+    "TX_SKU": "S3929",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007785,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4039]",
+    "TX_SKU": "S4039",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007786,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4051]",
+    "TX_SKU": "S4051",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007787,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4065]",
+    "TX_SKU": "S4065",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007788,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4080]",
+    "TX_SKU": "S4080",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007789,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4087]",
+    "TX_SKU": "S4087",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007802,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4295]",
+    "TX_SKU": "S4295",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007803,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4307]",
+    "TX_SKU": "S4307",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007804,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4321]",
+    "TX_SKU": "S4321",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007805,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4336]",
+    "TX_SKU": "S4336",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007806,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4343]",
+    "TX_SKU": "S4343",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007807,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4347]",
+    "TX_SKU": "S4347",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007808,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4366]",
+    "TX_SKU": "S4366",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007809,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4370]",
+    "TX_SKU": "S4370",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007810,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4377]",
+    "TX_SKU": "S4377",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007811,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4379]",
+    "TX_SKU": "S4379",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007812,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4389]",
+    "TX_SKU": "S4389",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007813,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4396]",
+    "TX_SKU": "S4396",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007826,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4603]",
+    "TX_SKU": "S4603",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007827,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4622]",
+    "TX_SKU": "S4622",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007828,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4626]",
+    "TX_SKU": "S4626",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007829,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4633]",
+    "TX_SKU": "S4633",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007830,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4635]",
+    "TX_SKU": "S4635",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007831,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4645]",
+    "TX_SKU": "S4645",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007832,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4652]",
+    "TX_SKU": "S4652",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007833,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4663]",
+    "TX_SKU": "S4663",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007834,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4668]",
+    "TX_SKU": "S4668",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007835,
+    "TX_DESCRIPTION": "[US] [Walmart] [S467]",
+    "TX_SKU": "S467",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007836,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4676]",
+    "TX_SKU": "S4676",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007837,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4680]",
+    "TX_SKU": "S4680",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007562,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1008]",
+    "TX_SKU": "S1008",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007563,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1015]",
+    "TX_SKU": "S1015",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007564,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1019]",
+    "TX_SKU": "S1019",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007565,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1038]",
+    "TX_SKU": "S1038",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007566,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1042]",
+    "TX_SKU": "S1042",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007567,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1049]",
+    "TX_SKU": "S1049",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007568,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1051]",
+    "TX_SKU": "S1051",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007569,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1061]",
+    "TX_SKU": "S1061",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007570,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1068]",
+    "TX_SKU": "S1068",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007571,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1079]",
+    "TX_SKU": "S1079",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007572,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1084]",
+    "TX_SKU": "S1084",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007573,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1092]",
+    "TX_SKU": "S1092",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007850,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4901]",
+    "TX_SKU": "S4901",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007851,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4908]",
+    "TX_SKU": "S4908",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007852,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4919]",
+    "TX_SKU": "S4919",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007853,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4924]",
+    "TX_SKU": "S4924",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007854,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4932]",
+    "TX_SKU": "S4932",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007855,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4936]",
+    "TX_SKU": "S4936",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007856,
+    "TX_DESCRIPTION": "[US] [Walmart] [S4953]",
+    "TX_SKU": "S4953",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007857,
+    "TX_DESCRIPTION": "[US] [Walmart] [S496]",
+    "TX_SKU": "S496",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007858,
+    "TX_DESCRIPTION": "[US] [Walmart] [S503]",
+    "TX_SKU": "S503",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007859,
+    "TX_DESCRIPTION": "[US] [Walmart] [S5063]",
+    "TX_SKU": "S5063",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007860,
+    "TX_DESCRIPTION": "[US] [Walmart] [S507]",
+    "TX_SKU": "S507",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007861,
+    "TX_DESCRIPTION": "[US] [Walmart] [S526]",
+    "TX_SKU": "S526",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007586,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1317]",
+    "TX_SKU": "S1317",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007587,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1324]",
+    "TX_SKU": "S1324",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007588,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1335]",
+    "TX_SKU": "S1335",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007589,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1340]",
+    "TX_SKU": "S1340",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007590,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1348]",
+    "TX_SKU": "S1348",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007591,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1352]",
+    "TX_SKU": "S1352",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007592,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1369]",
+    "TX_SKU": "S1369",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007593,
+    "TX_DESCRIPTION": "[US] [Walmart] [S14]",
+    "TX_SKU": "S14",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007594,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1479]",
+    "TX_SKU": "S1479",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007595,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1491]",
+    "TX_SKU": "S1491",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007596,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1505]",
+    "TX_SKU": "S1505",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007597,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1520]",
+    "TX_SKU": "S1520",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007610,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1625]",
+    "TX_SKU": "S1625",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007611,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1735]",
+    "TX_SKU": "S1735",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007612,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1747]",
+    "TX_SKU": "S1747",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007613,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1761]",
+    "TX_SKU": "S1761",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007614,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1776]",
+    "TX_SKU": "S1776",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007615,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1783]",
+    "TX_SKU": "S1783",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007616,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1787]",
+    "TX_SKU": "S1787",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007617,
+    "TX_DESCRIPTION": "[US] [Walmart] [S18]",
+    "TX_SKU": "S18",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007618,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1806]",
+    "TX_SKU": "S1806",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007619,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1810]",
+    "TX_SKU": "S1810",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007620,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1817]",
+    "TX_SKU": "S1817",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007621,
+    "TX_DESCRIPTION": "[US] [Walmart] [S1819]",
+    "TX_SKU": "S1819",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007874,
+    "TX_DESCRIPTION": "[US] [Walmart] [S68]",
+    "TX_SKU": "S68",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007875,
+    "TX_DESCRIPTION": "[US] [Walmart] [S711]",
+    "TX_SKU": "S711",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007876,
+    "TX_DESCRIPTION": "[US] [Walmart] [S72]",
+    "TX_SKU": "S72",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007877,
+    "TX_DESCRIPTION": "[US] [Walmart] [S723]",
+    "TX_SKU": "S723",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007878,
+    "TX_DESCRIPTION": "[US] [Walmart] [S737]",
+    "TX_SKU": "S737",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007879,
+    "TX_DESCRIPTION": "[US] [Walmart] [S752]",
+    "TX_SKU": "S752",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007880,
+    "TX_DESCRIPTION": "[US] [Walmart] [S759]",
+    "TX_SKU": "S759",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007881,
+    "TX_DESCRIPTION": "[US] [Walmart] [S763]",
+    "TX_SKU": "S763",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007882,
+    "TX_DESCRIPTION": "[US] [Walmart] [S782]",
+    "TX_SKU": "S782",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007883,
+    "TX_DESCRIPTION": "[US] [Walmart] [S786]",
+    "TX_SKU": "S786",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007884,
+    "TX_DESCRIPTION": "[US] [Walmart] [S793]",
+    "TX_SKU": "S793",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007885,
+    "TX_DESCRIPTION": "[US] [Walmart] [S795]",
+    "TX_SKU": "S795",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007634,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2039]",
+    "TX_SKU": "S2039",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007635,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2043]",
+    "TX_SKU": "S2043",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007636,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2062]",
+    "TX_SKU": "S2062",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007637,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2066]",
+    "TX_SKU": "S2066",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007638,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2073]",
+    "TX_SKU": "S2073",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007639,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2075]",
+    "TX_SKU": "S2075",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007640,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2085]",
+    "TX_SKU": "S2085",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007641,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2092]",
+    "TX_SKU": "S2092",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007642,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2103]",
+    "TX_SKU": "S2103",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007643,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2108]",
+    "TX_SKU": "S2108",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007644,
+    "TX_DESCRIPTION": "[US] [Walmart] [S211]",
+    "TX_SKU": "S211",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007645,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2116]",
+    "TX_SKU": "S2116",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007658,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2331]",
+    "TX_SKU": "S2331",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007659,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2341]",
+    "TX_SKU": "S2341",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007660,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2348]",
+    "TX_SKU": "S2348",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007661,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2359]",
+    "TX_SKU": "S2359",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007662,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2364]",
+    "TX_SKU": "S2364",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007663,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2372]",
+    "TX_SKU": "S2372",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007664,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2376]",
+    "TX_SKU": "S2376",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007665,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2393]",
+    "TX_SKU": "S2393",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007666,
+    "TX_DESCRIPTION": "[US] [Walmart] [S240]",
+    "TX_SKU": "S240",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007667,
+    "TX_DESCRIPTION": "[US] [Walmart] [S247]",
+    "TX_SKU": "S247",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007668,
+    "TX_DESCRIPTION": "[US] [Walmart] [S25]",
+    "TX_SKU": "S25",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007669,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2503]",
+    "TX_SKU": "S2503",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007682,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2615]",
+    "TX_SKU": "S2615",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007683,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2620]",
+    "TX_SKU": "S2620",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007684,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2628]",
+    "TX_SKU": "S2628",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007685,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2632]",
+    "TX_SKU": "S2632",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007686,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2649]",
+    "TX_SKU": "S2649",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007687,
+    "TX_DESCRIPTION": "[US] [Walmart] [S27]",
+    "TX_SKU": "S27",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007688,
+    "TX_DESCRIPTION": "[US] [Walmart] [S270]",
+    "TX_SKU": "S270",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007689,
+    "TX_DESCRIPTION": "[US] [Walmart] [S274]",
+    "TX_SKU": "S274",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007690,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2759]",
+    "TX_SKU": "S2759",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007691,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2771]",
+    "TX_SKU": "S2771",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007692,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2785]",
+    "TX_SKU": "S2785",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007693,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2800]",
+    "TX_SKU": "S2800",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007706,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2884]",
+    "TX_SKU": "S2884",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007707,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2888]",
+    "TX_SKU": "S2888",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007708,
+    "TX_DESCRIPTION": "[US] [Walmart] [S2905]",
+    "TX_SKU": "S2905",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007709,
+    "TX_DESCRIPTION": "[US] [Walmart] [S293]",
+    "TX_SKU": "S293",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007710,
+    "TX_DESCRIPTION": "[US] [Walmart] [S300]",
+    "TX_SKU": "S300",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007711,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3015]",
+    "TX_SKU": "S3015",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007712,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3027]",
+    "TX_SKU": "S3027",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007713,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3041]",
+    "TX_SKU": "S3041",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007714,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3056]",
+    "TX_SKU": "S3056",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007715,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3063]",
+    "TX_SKU": "S3063",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007716,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3067]",
+    "TX_SKU": "S3067",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007717,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3086]",
+    "TX_SKU": "S3086",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1003614,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2281]",
+    "TX_SKU": "S2281",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003615,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S233]",
+    "TX_SKU": "S233",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003616,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2389]",
+    "TX_SKU": "S2389",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003617,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2492]",
+    "TX_SKU": "S2492",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003618,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2537]",
+    "TX_SKU": "S2537",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003619,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2645]",
+    "TX_SKU": "S2645",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003620,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2748]",
+    "TX_SKU": "S2748",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003621,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2793]",
+    "TX_SKU": "S2793",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003622,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S2901]",
+    "TX_SKU": "S2901",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003623,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3004]",
+    "TX_SKU": "S3004",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003624,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3049]",
+    "TX_SKU": "S3049",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003625,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3157]",
+    "TX_SKU": "S3157",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003626,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3260]",
+    "TX_SKU": "S3260",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007730,
+    "TX_DESCRIPTION": "[US] [Walmart] [S324]",
+    "TX_SKU": "S324",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007731,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3271]",
+    "TX_SKU": "S3271",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007732,
+    "TX_DESCRIPTION": "[US] [Walmart] [S328]",
+    "TX_SKU": "S328",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1007733,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3283]",
+    "TX_SKU": "S3283",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1007734,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3297]",
+    "TX_SKU": "S3297",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007735,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3312]",
+    "TX_SKU": "S3312",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007736,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3319]",
+    "TX_SKU": "S3319",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LICENSED"
+  },
+  {
+    "KY_ID": 1007737,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3323]",
+    "TX_SKU": "S3323",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1007738,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3342]",
+    "TX_SKU": "S3342",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart"
+  },
+  {
+    "KY_ID": 1007739,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3346]",
+    "TX_SKU": "S3346",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "PLUSH"
+  },
+  {
+    "KY_ID": 1007740,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3353]",
+    "TX_SKU": "S3353",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1007741,
+    "TX_DESCRIPTION": "[US] [Walmart] [S3355]",
+    "TX_SKU": "S3355",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": "FASHION DOLL ACCESS"
+  },
+  {
+    "KY_ID": 1003627,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3305]",
+    "TX_SKU": "S3305",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003628,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S341]",
+    "TX_SKU": "S341",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003629,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3413]",
+    "TX_SKU": "S3413",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003630,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3516]",
+    "TX_SKU": "S3516",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003631,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3561]",
+    "TX_SKU": "S3561",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003632,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3669]",
+    "TX_SKU": "S3669",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003633,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3772]",
+    "TX_SKU": "S3772",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003634,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3817]",
+    "TX_SKU": "S3817",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003635,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S3925]",
+    "TX_SKU": "S3925",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003636,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4028]",
+    "TX_SKU": "S4028",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003637,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4073]",
+    "TX_SKU": "S4073",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003638,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4181]",
+    "TX_SKU": "S4181",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003639,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4284]",
+    "TX_SKU": "S4284",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003640,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4329]",
+    "TX_SKU": "S4329",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003641,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4437]",
+    "TX_SKU": "S4437",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003642,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S444]",
+    "TX_SKU": "S444",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003643,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4540]",
+    "TX_SKU": "S4540",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003644,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4585]",
+    "TX_SKU": "S4585",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003645,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4693]",
+    "TX_SKU": "S4693",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003646,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4796]",
+    "TX_SKU": "S4796",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003647,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4841]",
+    "TX_SKU": "S4841",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003648,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S489]",
+    "TX_SKU": "S489",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003649,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S4949]",
+    "TX_SKU": "S4949",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003650,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S5052]",
+    "TX_SKU": "S5052",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003651,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S597]",
+    "TX_SKU": "S597",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003652,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S700]",
+    "TX_SKU": "S700",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003653,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S745]",
+    "TX_SKU": "S745",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003654,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S85]",
+    "TX_SKU": "S85",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003655,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S853]",
+    "TX_SKU": "S853",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "HOME DÉCOR"
+  },
+  {
+    "KY_ID": 1003656,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC] [S956]",
+    "TX_SKU": "S956",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": "FASHION DOLLS"
+  },
+  {
+    "KY_ID": 1003677,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1000]",
+    "TX_SKU": "S1000",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003678,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1027]",
+    "TX_SKU": "S1027",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1006288,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2777]",
+    "TX_SKU": "S2777",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006289,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2799]",
+    "TX_SKU": "S2799",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006290,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2902]",
+    "TX_SKU": "S2902",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006291,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2936]",
+    "TX_SKU": "S2936",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006292,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3033]",
+    "TX_SKU": "S3033",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006293,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3055]",
+    "TX_SKU": "S3055",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006294,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3158]",
+    "TX_SKU": "S3158",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006295,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3192]",
+    "TX_SKU": "S3192",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006296,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3289]",
+    "TX_SKU": "S3289",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006297,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3311]",
+    "TX_SKU": "S3311",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006298,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S3414]",
+    "TX_SKU": "S3414",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006299,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S342]",
+    "TX_SKU": "S342",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006312,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4182]",
+    "TX_SKU": "S4182",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006313,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4216]",
+    "TX_SKU": "S4216",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006314,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4313]",
+    "TX_SKU": "S4313",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006315,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4335]",
+    "TX_SKU": "S4335",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006316,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4438]",
+    "TX_SKU": "S4438",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006317,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4472]",
+    "TX_SKU": "S4472",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006318,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4569]",
+    "TX_SKU": "S4569",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006319,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4591]",
+    "TX_SKU": "S4591",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006320,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4694]",
+    "TX_SKU": "S4694",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006321,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4728]",
+    "TX_SKU": "S4728",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006322,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S473]",
+    "TX_SKU": "S473",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006323,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S4825]",
+    "TX_SKU": "S4825",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006264,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1366]",
+    "TX_SKU": "S1366",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006265,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1400]",
+    "TX_SKU": "S1400",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006266,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1497]",
+    "TX_SKU": "S1497",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006267,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1519]",
+    "TX_SKU": "S1519",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006268,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1622]",
+    "TX_SKU": "S1622",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006269,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1656]",
+    "TX_SKU": "S1656",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006270,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1753]",
+    "TX_SKU": "S1753",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006271,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1775]",
+    "TX_SKU": "S1775",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1006272,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1878]",
+    "TX_SKU": "S1878",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp"
+  },
+  {
+    "KY_ID": 1006273,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S1912]",
+    "TX_SKU": "S1912",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "STATIONERY"
+  },
+  {
+    "KY_ID": 1006274,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2009]",
+    "TX_SKU": "S2009",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1006275,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp] [S2031]",
+    "TX_SKU": "S2031",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": "SMALL/MINI DOLL ACCE"
+  },
+  {
+    "KY_ID": 1003679,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1081]",
+    "TX_SKU": "S1081",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003680,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1256]",
+    "TX_SKU": "S1256",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003681,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1283]",
+    "TX_SKU": "S1283",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003682,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1337]",
+    "TX_SKU": "S1337",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003683,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1512]",
+    "TX_SKU": "S1512",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003684,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1539]",
+    "TX_SKU": "S1539",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003685,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1593]",
+    "TX_SKU": "S1593",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003686,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1768]",
+    "TX_SKU": "S1768",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003687,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1795]",
+    "TX_SKU": "S1795",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003688,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S1849]",
+    "TX_SKU": "S1849",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003689,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2024]",
+    "TX_SKU": "S2024",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003690,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2051]",
+    "TX_SKU": "S2051",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003691,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2105]",
+    "TX_SKU": "S2105",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003692,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2280]",
+    "TX_SKU": "S2280",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003693,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2307]",
+    "TX_SKU": "S2307",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003694,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S232]",
+    "TX_SKU": "S232",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003695,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2361]",
+    "TX_SKU": "S2361",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003696,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2536]",
+    "TX_SKU": "S2536",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003697,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2563]",
+    "TX_SKU": "S2563",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003698,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S259]",
+    "TX_SKU": "S259",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003699,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2617]",
+    "TX_SKU": "S2617",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1003700,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2792]",
+    "TX_SKU": "S2792",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "SMALL/MINI DOLLS"
+  },
+  {
+    "KY_ID": 1003701,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2819]",
+    "TX_SKU": "S2819",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "LARGE DOLLS"
+  },
+  {
+    "KY_ID": 1003702,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA] [S2873]",
+    "TX_SKU": "S2873",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": "GAMES/PUZZLES"
+  },
+  {
+    "KY_ID": 1411354,
+    "TX_DESCRIPTION": "[CA]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "CA",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411382,
+    "TX_DESCRIPTION": "[US]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "US",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411413,
+    "TX_DESCRIPTION": "[CA] [SEARS CANADA]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "SEARS CANADA",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411438,
+    "TX_DESCRIPTION": "[CA] [TOYS R Us (Canada)]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "TOYS R Us (Canada)",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411439,
+    "TX_DESCRIPTION": "[CA] [ZELLERS INC. - CANADA]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "ZELLERS INC. - CANADA",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411461,
+    "TX_DESCRIPTION": "[US] [Walmart]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "Walmart",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411472,
+    "TX_DESCRIPTION": "[CA] [WALMART CANADA INC]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "CA",
+    "TX_CUSTOMER": "WALMART CANADA INC",
+    "TX_CATEGORY": ""
+  },
+  {
+    "KY_ID": 1411501,
+    "TX_DESCRIPTION": "[US] [K-Mart Corp]",
+    "TX_SKU": "",
+    "TX_COUNTRY": "US",
+    "TX_CUSTOMER": "K-Mart Corp",
+    "TX_CATEGORY": ""
+  }
+]
